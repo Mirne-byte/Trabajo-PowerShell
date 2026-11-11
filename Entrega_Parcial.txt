@@ -1,0 +1,9 @@
+ENTREGA PARCIAL - POWERSHELL
+
+Archivo: Ejercicio_Parcial.ps1
+
+Repositorio:
+https://github.com/Mirne-byte/Trabajo-PowerShell
+
+Enlace directo al ejercicio:
+https://github.com/Mirne-byte/Trabajo-PowerShell/blob/main/Ejercicio_Parcial.ps1
